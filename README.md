@@ -1,3 +1,4 @@
 # AtinHareketOyunu
-Atın hareket mantığına göre ilerleme
-bu benim ilk depom
+Atın hareket mantığına(L şeklinde) göre ilerleyerek oyunu oynamak.
+
+
