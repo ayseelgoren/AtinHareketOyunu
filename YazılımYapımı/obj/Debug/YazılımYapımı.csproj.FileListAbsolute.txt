@@ -1,0 +1,13 @@
+C:\Users\ayse\Desktop\YazılımYapımı\YazılımYapımı\bin\Debug\YazılımYapımı.exe.config
+C:\Users\ayse\Desktop\YazılımYapımı\YazılımYapımı\obj\Debug\YazılımYapımı.Anaform.resources
+C:\Users\ayse\Desktop\YazılımYapımı\YazılımYapımı\obj\Debug\YazılımYapımı.Form1.resources
+C:\Users\ayse\Desktop\YazılımYapımı\YazılımYapımı\obj\Debug\YazılımYapımı.Properties.Resources.resources
+C:\Users\ayse\Desktop\YazılımYapımı\YazılımYapımı\obj\Debug\YazılımYapımı.csproj.GenerateResource.Cache
+C:\Users\ayse\Desktop\YazılımYapımı\YazılımYapımı\bin\Debug\YazılımYapımı.exe
+C:\Users\ayse\Desktop\YazılımYapımı\YazılımYapımı\bin\Debug\YazılımYapımı.pdb
+C:\Users\ayse\Desktop\YazılımYapımı\YazılımYapımı\obj\Debug\YazılımYapımı.exe
+C:\Users\ayse\Desktop\YazılımYapımı\YazılımYapımı\obj\Debug\YazılımYapımı.pdb
+C:\Users\ayse\Desktop\YazılımYapımı\YazılımYapımı\obj\Debug\YazılımYapımı.csprojResolveAssemblyReference.cache
+C:\Users\ayse\Desktop\Üniversite\2.Sınıf\2.DONEM\projeler\Yapım Ödevi\YazılımYapımı\YazılımYapımı\bin\Debug\YazılımYapımı.exe.config
+C:\Users\ayse\Desktop\Üniversite\2.Sınıf\2.DONEM\projeler\Yapım Ödevi\YazılımYapımı\YazılımYapımı\obj\Debug\YazılımYapımı.exe
+C:\Users\ayse\Desktop\Üniversite\2.Sınıf\2.DONEM\projeler\Yapım Ödevi\YazılımYapımı\YazılımYapımı\obj\Debug\YazılımYapımı.pdb
